@@ -55,56 +55,6 @@ Building intelligent systems using Machine Learning, Deep Learning, LLMs and Ret
 
 ---
 
-# 🚀 Featured Projects
-
-🛍 **StyleMatch AI**
-
-🎥 **YouTube RAG Assistant**
-
-☀ **Solar PV Fault Detection**
-
-📦 **Panel Detection & BOM Generator**
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=priyal1012&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyal1012&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=priyal1012&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=priyal1012&theme=tokyonight"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/priyal1012/priyal1012/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=priyal1012&style=for-the-badge"/>
 </p>
