@@ -56,7 +56,7 @@
 
 ---
 
-<img align="right" height="200" src="https://media.giphy.com/mediahttps://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmVleDRmNnY3NmdzMGF3dHdscGsxaThhcjR6ZjltNmplbDdmcWtiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LuvsSH7vbGeKtZ238M/giphy.gif/>
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmVleDRmNnY3NmdzMGF3dHdscGsxaThhcjR6ZjltNmplbDdmcWtiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LuvsSH7vbGeKtZ238M/giphy.gif/>
 <p align="center"><b>धन्यवादः</b></p>
 <p align="center"><b>Thank you</b></p>
 <p align="center"><b>감사합니다</b></p>
