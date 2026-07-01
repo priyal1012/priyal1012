@@ -1,5 +1,6 @@
+<!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&size=30&duration=3500&pause=1200&color=FACC15&center=true&vCenter=true&width=850&lines=Hi!+I'm+Priyal+and+I'm+building+tomorrow+with+AI." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&width=500&lines=Hi!+I'm+Priyal+and+I+build+AI." alt="Typing SVG" />
 </p>
 
 <p align="center">
