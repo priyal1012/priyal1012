@@ -1,246 +1,94 @@
-<h1 align="center">
-  Hi 👋, I'm Priyal Neekhra
-</h1>
+👋 Hi, I'm Priyal Neekhra
 
-<h3 align="center">
-AI & Machine Learning Engineer
-</h3>
+(animated typing)
 
-<p align="center">
-Building intelligent systems using Machine Learning, Deep Learning, LLMs and Retrieval-Augmented Generation.
-</p>
+------------------------------------------------
 
----
+LinkedIn | GitHub | Gmail | LeetCode
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer;Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+LLMs;RAG+%7C+Selective+RAG+%7C+CRAG;Python+Developer;Always+Learning+Something+New+🚀" />
-</p>
+------------------------------------------------
 
----
+🙋 About Me
 
-# 👨‍💻 About Me
+• AI & Machine Learning Enthusiast
+• Passionate about solving real-world problems using AI
+• Interested in ML, DL, LLMs & RAG
+• DSA Practitioner
 
-🎓 AI & Machine Learning Enthusiast
+------------------------------------------------
 
-🚀 Passionate about building intelligent AI applications.
+⚡ Tech Stack
 
-💡 Interested in
+Languages
 
-- Machine Learning
-- Deep Learning
-- Large Language Models
-- Generative AI
-- Retrieval-Augmented Generation
-- AI Agents
+Python | C++ | SQL
 
-🌱 Constantly learning and building real-world AI solutions.
+AI / ML
 
----
+Machine Learning
+Deep Learning
+CNN
+RNN
+Transformers
+LLMs
+Generative AI
 
-# 🚀 Current Focus
+RAG
 
-- 🤖 Large Language Models (LLMs)
-- 📚 Retrieval-Augmented Generation (RAG)
-- 🧠 Deep Learning
-- ⚡ Machine Learning
-- 🔍 AI Agents
-- 📈 Data Structures & Algorithms
+RAG
+Selective RAG
+Corrective RAG (CRAG)
+LangChain
+FAISS
+Sentence Transformers
+Gemini API
 
----
+Libraries
 
-# 🛠 Tech Stack
+TensorFlow
+PyTorch
+Scikit-learn
+NumPy
+Pandas
+OpenCV
 
-## 💻 Languages
+Frameworks
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
-</p>
+Flask
+FastAPI
+Gradio
 
-## 🤖 Artificial Intelligence
+Tools
 
-- Machine Learning
-- Deep Learning
-- Generative AI
-- Large Language Models (LLMs)
+Git
+GitHub
+VS Code
+Google Colab
 
----
+------------------------------------------------
 
-## 🧠 Deep Learning
+🚀 Featured Projects
 
-- Artificial Neural Networks (ANN)
-- Convolutional Neural Networks (CNN)
-- Recurrent Neural Networks (RNN)
-- Transformers
+🛍 AI Fashion Recommender
 
----
+🎥 YouTube RAG Assistant
 
-## 📚 Retrieval-Augmented Generation
+☀ Solar PV Fault Detection
 
-- RAG
-- Selective RAG
-- Corrective RAG (CRAG)
-- FAISS
-- Sentence Transformers
-- LangChain
-- Gemini API
+📦 AI Panel Detection & BOM Generator
 
----
+------------------------------------------------
 
-## 📊 Libraries
+📊 GitHub Stats
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,flask,fastapi,git,github,vscode" />
-</p>
+(Streak)
 
-### Python Libraries
+(Top Languages)
 
-- NumPy
-- Pandas
-- Scikit-learn
-- Matplotlib
-- OpenCV
+------------------------------------------------
 
----
+🏆 LeetCode
 
-## 🌐 Frameworks
+------------------------------------------------
 
-- Flask
-- FastAPI
-- Gradio
-
----
-
-## 💾 Database
-
-- MySQL
-
----
-
-## ⚙ Developer Tools
-
-- Git
-- GitHub
-- VS Code
-- Google Colab
-
----
-
-## 📖 Core CS
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Problem Solving
-
----
-
-# 🌟 Featured Projects
-
-### 🛍 AI Fashion Recommender
-
-Fashion recommendation system using Deep Learning.
-
----
-
-### 🎥 YouTube RAG Assistant
-
-Context-aware YouTube Question Answering System using
-
-- Gemini
-- FAISS
-- LangChain
-- Sentence Transformers
-
----
-
-### ☀ Solar PV Fault Detection
-
-Thermal fault detection using
-
-- EfficientNetV2-S
-- Deep Learning
-- OpenCV
-
----
-
-### 📦 Panel Detection & BOM Generator
-
-AI-powered panel detection and BOM generation using
-
-- RAG
-- Gemini
-- FAISS
-- Sentence Transformers
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyal1012&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyal1012&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=priyal1012&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=priyal1012&theme=tokyonight&margin-w=15"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyal1012&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 📫 Connect with Me
-
-<p align="left">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="left">
-
-<img src="https://komarev.com/ghpvc/?username=priyal1012&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-# 💬 Quote
-
-> "Building intelligent systems that solve real-world problems through Artificial Intelligence."
+🐍 Contribution Snake
