@@ -3,28 +3,28 @@
   <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&width=700&lines=Hi!+I'm+Priyal.;I+build+AI+that+solves+real-world+problems." alt="Typing SVG" />
 </p>
 
+<!-- Contact Badges -->
 <p align="center">
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/priyal-neekhra/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/priyal1012" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Priyal_10-/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="mailto:neekhra10@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-<a href="https://github.com/priyal1012">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<a href="YOUR_LEETCODE">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
-
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - AI & Machine Learning Enthusiast
 - Building intelligent AI applications
-- Exploring LLMs, RAG and AI Agents
+- Exploring LLMs, RAG, AI Agents & Deep Learning
 - Strong interest in DSA & Problem Solving
-
----
 
 # ⚡ Tech Stack
 
@@ -39,8 +39,8 @@
 | Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black) |
 | Core CS | ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2563EB?style=for-the-badge) ![OOP](https://img.shields.io/badge/OOP-7C3AED?style=for-the-badge) ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-16A34A?style=for-the-badge) |
 
----
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=priyal1012&style=for-the-badge"/>
 </p>
+
+
