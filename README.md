@@ -1,11 +1,5 @@
 <h1 align="center">Hi, I'm Priyal Neekhra</h1>
 
-<h3 align="center">AI & Machine Learning Engineer</h3>
-
-<p align="center">
-Building intelligent systems using Machine Learning, Deep Learning, LLMs and Retrieval-Augmented Generation.
-</p>
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Engineer;Machine+Learning+%7C+Deep+Learning;LLMs+%7C+Generative+AI;RAG+%7C+Selective+RAG+%7C+CRAG;Always+Learning+🚀"/>
 </p>
