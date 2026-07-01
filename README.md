@@ -24,10 +24,10 @@
 
 # 👨‍💻 About Me
 
-- 🎓 AI & Machine Learning Enthusiast
-- 🤖 Building intelligent AI applications
-- 📚 Exploring LLMs, RAG and AI Agents
-- 💻 Strong interest in DSA & Problem Solving
+- AI & Machine Learning Enthusiast
+- Building intelligent AI applications
+- Exploring LLMs, RAG and AI Agents
+- Strong interest in DSA & Problem Solving
 
 ---
 
