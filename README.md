@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Priyal Neekhra</h1>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Engineer;Machine+Learning+%7C+Deep+Learning;LLMs+%7C+Generative+AI;RAG+%7C+Selective+RAG+%7C+CRAG;Always+Learning+🚀"/>
-</p>
-
 <p align="center">
 <a href="YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
