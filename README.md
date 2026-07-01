@@ -44,3 +44,21 @@
 </p>
 
 
+## 🎓 Education
+
+- **National Institute of Technology Karnataka (NITK)**  
+  B.Tech in Civil Engineering (2023–2027)  
+
+## 🌍 Languages
+
+- 🇬🇧 **English** — Fluent  
+- 🇮🇳 **Hindi** — Native
+
+---
+
+<img align="right" height="200" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" />
+<p align="center"><b>धन्यवादः</b></p>
+<p align="center"><b>Thank you</b></p>
+<p align="center"><b>감사합니다</b></p>
+<p align="center"><b>ありがとう</b></p>
+
